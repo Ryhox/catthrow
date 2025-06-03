@@ -499,6 +499,15 @@ body {
 }
 #privacy-link { 
   postion: absolute;
+  text-decoration: none;
+  left: 3rem;
+  bottom: 3rem;
+  color: purple;
+  font-weight: bolder;
+}
+#privacy-link:hover { 
+  text-decoration: underline;
+  postion: absolute;
   left: 3rem;
   bottom: 3rem;
 }
