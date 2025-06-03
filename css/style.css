@@ -507,9 +507,6 @@ body {
 }
 #privacy-link:hover { 
   text-decoration: underline;
-  postion: absolute;
-  left: 3rem;
-  bottom: 3rem;
 }
 
       @keyframes blink-caret {
