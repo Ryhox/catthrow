@@ -497,7 +497,11 @@ body {
       blink-caret 0.75s step-end infinite;
   border-right: 2px solid #e0e0ff;
 }
-
+#privacy-link { 
+  postion: absolute;
+  left: 3rem;
+  bottom: 3rem;
+}
 
       @keyframes blink-caret {
           from, to { border-color: transparent; }
