@@ -500,8 +500,11 @@ body {
 #privacy-link { 
   postion: absolute;
   text-decoration: none;
-  left: 3rem;
-  bottom: 3rem;
+  left: 10px;
+  bottom: 10px;
+  background-color: #2c2c2c6e;
+  border-radius: 8px;
+  padding: 5px;
   color: purple;
   font-weight: bolder;
 }
