@@ -498,7 +498,7 @@ body {
   border-right: 2px solid #e0e0ff;
 }
 #privacy-link { 
-  postion: absolute;
+  position: absolute;
   text-decoration: none;
   left: 10px;
   bottom: 10px;
@@ -507,6 +507,8 @@ body {
   padding: 5px;
   color: purple;
   font-weight: bolder;
+  font-family: 'Inter', sans-serif;
+
 }
 #privacy-link:hover { 
   text-decoration: underline;
